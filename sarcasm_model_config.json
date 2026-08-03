@@ -1,0 +1,7 @@
+{
+    "model_name": "LSTM",
+    "vocab_size": 20000,
+    "max_length": 20,
+    "embedding_dim": 100,
+    "classification_threshold": 0.5
+}
