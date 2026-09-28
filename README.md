@@ -8,9 +8,6 @@ A Natural Language Processing (NLP) based machine learning project that detects 
 
 The project compares traditional machine learning with deep learning approaches and uses an **LSTM model** as the final selected model.
 
-## 🚀 Live Demo
-
-👉 **[Try the Sarcasm Detection App](YOUR-STREAMLIT-LINK-HERE)**
 
 ## 📌 Project Overview
 
